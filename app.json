@@ -1,0 +1,17 @@
+{
+  "name": "schedule-x",
+  "short_name": "schedule",
+  "theme_color": "#0c0034",
+  "background_color": "#0c0034",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "welcome.html",
+  "description": "Blog and Resume for Christine Dodrill",
+  "orientation": "any",
+  "icons": [
+      {
+          "src": "/data/logo.png",
+          "sizes": "1024x1024"
+      }
+  ]
+}
