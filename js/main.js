@@ -9,11 +9,9 @@ secName.innerHTML=(secData);
 // Update the time and manage class schedule
 
 
-let A1= document.getElementById("a1")
-let A2= document.getElementById("a2")
-let B1 = document.getElementById("b1");
-let B2 = document.getElementById("b2");
-let C1 = document.getElementById("c1");
+let A= document.getElementById("A")
+let B = document.getElementById("B");
+let C = document.getElementById("C");
 
 
 A.addEventListener("click", function() {
