@@ -1,0 +1,44 @@
+{
+    "Monday": {
+        "cls1": { "subject": "MADUA LAB (C-210)", "teacher": "KAMALAKANTA PRADHAN" },
+        "cls2": {  "subject": "MADUA LAB(c-210)", "teacher": "KAMALAKANTA PRADHAN"  },
+        "cls3": { "subject": "MADUA LAB(C-210)", "teacher": "KAMALAKANTA PRADHAN" },
+        "cls4": { "subject": "IOT", "teacher": "SNEHARANI MUNI" },
+        "cls5": { "subject": "IOT", "teacher": "SNEHARANI MUNI" }
+    },
+    "Tuesday": {
+        "cls1": {"subject": "PROJECT(C-207)", "teacher": "SASWATI MAHAPATRA" },
+        "cls2": {"subject": "PROJECT(c-207)", "teacher": "SASWATI MAHAPATRA" },
+        "cls3": { "subject": "PROJECT(c-207)", "teacher": "SASWATI MAHAPATRA"},
+        "cls4": { "subject": "AI(C-224)", "teacher": "SUPRIYA SARALA MISHRA" },
+        "cls5": { "subject":"AI(C-224)", "teacher": "SUPRIYA SARALA MISHRA" }
+    },
+    "Wednesday": {
+        "cls1": {"subject": "PROJECT(C-207)", "teacher": "SASWATI MAHAPATRA" },
+        "cls2": {"subject":  "PROJECT(C-207)", "teacher": "SASWATI MAHAPATRA" },
+        "cls3": { "subject": "PROJECT(C-207)", "teacher": "SASWATI MAHAPATRA"},
+        "cls4": { "subject": "DATA ANALYTICS(C-210)", "teacher": "SANDHYARANI BEHERA" },
+        "cls5": { "subject":"DATA ANALYTICS(C-210)", "teacher": "SANDHYARANI BEHERA" }
+    },
+    "Thursday": {
+        "cls1": { "subject": "MADUA LAB (C-210)", "teacher": "KAMALAKANTA PRADHAN" },
+        "cls2": {  "subject": "MADUA LAB (C-210)", "teacher": "KAMALAKANTA PRADHAN" },
+        "cls3": { "subject": "MADUA LAB (C-210)", "teacher": "KAMALAKANTA PRADHAN"},
+        "cls4": {  "subject": "PROJECT (C-207)", "teacher": "SASWATI MAHAPATRA" },
+        "cls5": { "subject": "PROJECT (C-207) ", "teacher": "SASWATI MAHAPATRA" }
+    },
+    "Friday": {
+        "cls1": { "subject": "AI", "teacher": "SUPRIYA SARALA MISHRA" },
+        "cls2": { "subject": "DATA ANALYTICS", "teacher": "SANDHYARANI BEHERA" },
+        "cls3": { "subject": "DATA ANALYTICS", "teacher": "SANDHYARANI BEHERA" },
+        "cls4": { "subject": "MOBILE COMPUTATION", "teacher": "JOGESWAR TRIPATHY" },
+        "cls5": {"subject": "MOBILE COMPUTATION", "teacher": "JOGESWAR TRIPATHY"}
+    },
+    "Saturday": {
+        "cls1": { "subject": "DATA ANALYTICS", "teacher": "SANDHYARANI BEHERA"},
+        "cls2": { "subject": "IOT", "teacher": "SNEHARANI MUNI" },
+        "cls3": { "subject": "MOBILE COMPUTATION", "teacher": "JOGESWAR TRIPATHY" },
+        "cls4": { "subject": "IOT", "teacher": "ABC" },
+        "cls5": { "subject": "PROJECT(C-207)", "teacher": "SASWATI MAHAPATRA" }
+    }
+}
