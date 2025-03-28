@@ -6,6 +6,9 @@
         "cls4": { "subject": "IOT", "teacher": "SNEHARANI MUNI" },
         "cls5": { "subject": "IOT", "teacher": "SNEHARANI MUNI" }
     },
+
+
+    
     "Tuesday": {
         "cls1": {"subject": "PROJECT(C-207)", "teacher": "SASWATI MAHAPATRA" },
         "cls2": {"subject": "PROJECT(c-207)", "teacher": "SASWATI MAHAPATRA" },
